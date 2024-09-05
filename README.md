@@ -52,8 +52,6 @@ Los protocolos más comunes que utilizan las APIs son HTTP/HTTPS y SOAP. HTTP/HT
 </details>
 
 ---
-
----
 ###### **3. ¿Qué tienen en común SOAP, REST y HTTP? ¿Son APIs?**
 
 
@@ -93,3 +91,21 @@ REST es un estilo de arquitectura para construir APIs. Utiliza métodos HTTP com
 </details>
 
 ---
+###### **5.¿REST y RESTful son lo mismo?**
+
+
+- A: REST y RESTful son exactamente lo mismo.
+- B: REST es la arquitectura, y RESTful describe APIs que siguen esa arquitectura.
+- C: REST es un lenguaje de programación, y RESTful es una base de dato.
+- D: RESTful es un tipo de protocolo diferente a REST.
+
+<details><summary><b>Respuesta</b></summary>
+<p>
+
+#### Respuesta: B
+
+REST es el estilo de arquitectura, y cuando una API sigue los principios de REST, se le llama API RESTful.
+
+
+</p>
+</details>
