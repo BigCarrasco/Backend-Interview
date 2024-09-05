@@ -73,7 +73,7 @@ SOAP y REST son estilos de arquitectura para construir APIs, y HTTP es un protoc
 </details>
 
 ---
-###### **4. ¿Qué es REST **
+###### **4. ¿Qué es REST**
 
 
 - A: Un lenguaje de programación.
