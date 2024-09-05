@@ -12,7 +12,7 @@ Entrevista para backend
 ---
 
 
-| Sientete libre de usar el proyecto! 😃 I would _really_ appreciate a reference to this repo, I create the questions and explanations.
+| Sientete libre de usar el proyecto! 😃 Apreciaría _realmente_ apreciaria mucho las referencias a este proyecto, yo creo las preguntas y las respuestas.
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ###### 1. Qué es un API?
