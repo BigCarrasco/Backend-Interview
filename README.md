@@ -12,7 +12,7 @@ Entrevista para backend
 ---
 
 
-| Sientete libre de usar el proyecto! 😃 Apreciaría _realmente_ apreciaria mucho las referencias a este proyecto, yo creo las preguntas y las respuestas.
+| Sientete libre de usar el proyecto! 😃 _Apreciaría_ de corazón  mucho las referencias a este proyecto, yo creo las preguntas y las respuestas.
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ###### 1. Qué es un API?
@@ -28,6 +28,25 @@ Entrevista para backend
 #### Respuesta: C
 
 Una API es una forma de que dos sistemas se comuniquen entre sí. Permite que las aplicaciones pidan o envíen datos a través de internet.
+
+</p>
+</details>
+
+---
+###### 2. ¿Cuáles son los protocolos más comunes que usa una API?
+
+
+- A: FTP y SMTP.
+- B: HTTP/HTTPS y SOAP.
+- C: SSH y TCP/IP.
+- D: WebSocket y POP3.
+
+<details><summary><b>Respuesta</b></summary>
+<p>
+
+#### Respuesta: B
+
+Los protocolos más comunes que utilizan las APIs son HTTP/HTTPS y SOAP. HTTP/HTTPS es el estándar en la web, mientras que SOAP es un protocolo más antiguo utilizado en aplicaciones empresariales mediante comunicación XML.
 
 </p>
 </details>
