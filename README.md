@@ -15,7 +15,7 @@ Entrevista para backend
 | Sientete libre de usar el proyecto! 😃 _Apreciaría_ de corazón  mucho las referencias a este proyecto, yo creo las preguntas y las respuestas.
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-###### <b> 1. Qué es un API? </b>
+###### ** 1. Qué es un API? **
 
 - A: Un API es una aplicación que muestra imágenes.
 - B: Un API es un servidor de videojuegos.
@@ -33,7 +33,7 @@ Una API es una forma de que dos sistemas se comuniquen entre sí. Permite que la
 </details>
 
 ---
-###### <b> 2. ¿Cuáles son los protocolos más comunes que usa una API? </b>
+###### ** 2. ¿Cuáles son los protocolos más comunes que usa una API? **
 
 
 - A: FTP y SMTP.
