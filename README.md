@@ -14,3 +14,22 @@ Backend Interview for C#
 
 | Feel free to use them in a project! 😃 I would _really_ appreciate a reference to this repo, I create the questions and explanations.
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+###### 1. Qué es un API?
+
+- A: Un API es una aplicación que muestra imágenes.
+- B: Un API es un servidor de videojuegos.
+- C: Un API es una forma de que dos sistemas se comuniquen.
+- D: Un API es un lenguaje de programación.
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Answer: C
+
+Una API es una forma de que dos sistemas se comuniquen entre sí. Permite que las aplicaciones pidan o envíen datos a través de internet.
+
+</p>
+</details>
+
+---
