@@ -52,3 +52,44 @@ Los protocolos más comunes que utilizan las APIs son HTTP/HTTPS y SOAP. HTTP/HT
 </details>
 
 ---
+
+---
+###### **3. ¿Qué tienen en común SOAP, REST y HTTP? ¿Son APIs?**
+
+
+- A: SOAP, REST y HTTP son diferentes tipos de bases de datos.
+- B: SOAP, REST y HTTP son diferentes lenguajes de programación.
+- C: SOAP y REST son estilos para construir APIs, y HTTP es un protocolo que las APIs utilizan.
+- D: SOAP, REST y HTTP son tipos de servidores web.
+
+<details><summary><b>Respuesta</b></summary>
+<p>
+
+#### Respuesta: C
+
+SOAP y REST son estilos de arquitectura para construir APIs, y HTTP es un protocolo que se usa para la comunicación en estas APIs. SOAP puede usar varios protocolos, pero comúnmente utiliza HTTP. REST está basado en HTTP y se usa ampliamente para diseñar APIs web.
+
+</p>
+</details>
+
+---
+###### **4. ¿Qué es REST **
+
+
+- A: Un lenguaje de programación.
+- B: Un protocolo de seguridad.
+- C: Un estilo de arquitectura para construir APIs.
+- D: Un tipo de base de datos.
+
+<details><summary><b>Respuesta</b></summary>
+<p>
+
+#### Respuesta: C
+
+REST es un estilo de arquitectura para construir APIs. Utiliza métodos HTTP como `GET`, `POST`, `PUT`, y `DELETE` para acceder y manipular recursos en un servidor. Cada recurso tiene una URL especifica.
+
+
+</p>
+</details>
+
+---
