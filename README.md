@@ -1,5 +1,5 @@
 # Backend-Interview
-Backend Interview for C# 
+Entrevista para backend 
 
 <div align="center">
   <img height="60" src="https://edgewrapper.com/wp-content/uploads/2023/05/unnamed-4.png">
@@ -7,12 +7,12 @@ Backend Interview for C#
 </div>
 
 > [!NOTE]  
-> This repo was created in 2024 and the questions provided here are therefore based on the  syntax and behavior at that time. Since C# or backend is a constantly evolving language, there are newer language features that are not covered by the questions here.
+> Este repositorio se creó en 2024 y, por lo tanto, las preguntas proporcionadas aquí se basan en la sintaxis y el comportamiento en ese momento. Dado que el backend ó C# son tecnologias en constante evolución, existen características de lenguaje más nuevas que no están cubiertas en las preguntas aquí.
 
 ---
 
 
-| Feel free to use them in a project! 😃 I would _really_ appreciate a reference to this repo, I create the questions and explanations.
+| Sientete libre de usar el proyecto! 😃 I would _really_ appreciate a reference to this repo, I create the questions and explanations.
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ###### 1. Qué es un API?
@@ -22,10 +22,10 @@ Backend Interview for C#
 - C: Un API es una forma de que dos sistemas se comuniquen.
 - D: Un API es un lenguaje de programación.
 
-<details><summary><b>Answer</b></summary>
+<details><summary><b>Respuesta</b></summary>
 <p>
 
-#### Answer: C
+#### Respuesta: C
 
 Una API es una forma de que dos sistemas se comuniquen entre sí. Permite que las aplicaciones pidan o envíen datos a través de internet.
 
