@@ -1,5 +1,5 @@
 # Backend-Interview
-Entrevista para backend 
+Pretendo desarrollar una buena guia solida en Español e Ingles para formar LOS FUNDAMENTOS de una Ingenieria Backend.
 
 <div align="center">
   <img height="60" src="https://edgewrapper.com/wp-content/uploads/2023/05/unnamed-4.png">
