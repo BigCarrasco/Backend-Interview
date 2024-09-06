@@ -1,5 +1,5 @@
 # Backend-Interview
-Pretendo desarrollar una buena guia solida en Español e Ingles para formar LOS FUNDAMENTOS de una Ingenieria Backend.
+Pretendo desarrollar una buena guia solida en Español e Ingles para formar LOS FUNDAMENTOS de una Ingenieria Backend especialmente formada en Tecnologias de Microsoft como C#.
 
 <div align="center">
   <img height="60" src="https://edgewrapper.com/wp-content/uploads/2023/05/unnamed-4.png">
