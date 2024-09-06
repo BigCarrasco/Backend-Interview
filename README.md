@@ -108,3 +108,26 @@ REST es el estilo de arquitectura, y cuando una API sigue los principios de REST
 
 </p>
 </details>
+
+---
+###### **6.¿Cuáles son los métodos HTTP compatibles con REST?(Más usados)**
+
+
+- A: GET, POST, PUT, DELETE.
+- B: GET, POST, MANTAIN, ERASE.
+- C: GET, UPDATE, POST, TRUNCATE.
+- D: GET, DELETE, PARSE, CONVERT.
+
+<details><summary><b>Respuesta</b></summary>
+<p>
+
+#### Respuesta: A
+
+GET: Solo recibe recursos.
+POST: Envio de datos para actualizar un recurso.
+UPDATE: Envía datos a la API para crear y actualizar los recursos
+DELETE: Elimina los recursos del recurso especificado.
+
+
+</p>
+</details>
