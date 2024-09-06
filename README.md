@@ -7,12 +7,11 @@ Entrevista para backend
 </div>
 
 > [!NOTE]  
-> Este repositorio se creó en 2024 y, por lo tanto, las preguntas proporcionadas aquí se basan en la sintaxis y el comportamiento en ese momento. Dado que el backend ó C# son tecnologias en constante evolución, existen características de lenguaje más nuevas que no están cubiertas en las preguntas aquí.
-
+> Este repositorio se creó en 2024 y, por lo tanto, las preguntas proporcionadas aquí se basan en la sintaxis y el comportamiento en ese momento.Estare haciendo traducciones al Ingles, por lo que tu eres libre de añadir a tu idioma o sugerencias! Hagamos una buena comunidad 🤓
 ---
 
 
-| Sientete libre de usar el proyecto! 😃 _Apreciaría_ de corazón  mucho las referencias a este proyecto, yo creo las preguntas y las respuestas.
+| Sientete libre de usar el proyecto! 😃 _Apreciaría_ de corazón  mucho que este proyecto te sirva, estare haciendolo más robusto para que tengas una buena guía.
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ###### **1. Qué es un API?**
