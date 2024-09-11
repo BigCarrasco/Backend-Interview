@@ -131,3 +131,23 @@ DELETE: Elimina los recursos del recurso especificado.
 
 </p>
 </details>
+
+---
+###### **7. ¿Qué es la autentificaciòn?**
+
+- A: El proceso de verificar la identidad de un usuario o sistema.
+- B: El proceso de proteger los datos de una base de datos.
+- C: Un método para guardar contraseñas en una API.
+- D: Un servicio de red que envía datos.
+
+<details><summary><b>Respuesta</b></summary>
+<p>
+
+#### Respuesta: A
+
+La autenticación es el proceso de verificar la identidad de un usuario o sistema para asegurarse de que tiene acceso permitido a un recurso o servicio.
+
+</p>
+</details>
+
+---
