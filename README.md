@@ -211,3 +211,22 @@ Un **algoritmo** resuelve un problema específico, mientras que un **patrón de 
 
 </p>
 </details>
+
+---
+###### **11. ¿Cuántos patrones de diseño existen?**
+
+- A: Existen 5 patrones de diseño.
+- B: Existen 15 patrones de diseño.
+- C: Existen 23 patrones de diseño.
+- D: Existen infinitos patrones de diseño.
+
+<details><summary><b>Respuesta</b></summary>
+<p>
+
+#### Respuesta: C
+
+Existen 23 **patrones de diseño** clásicos, divididos en tres categorías: **creacionales, estructurales y de comportamiento**.
+
+
+</p>
+</details>
