@@ -7,7 +7,7 @@ Pretendo desarrollar una buena guia solida en Español e Ingles para formar LOS 
 </div>
 
 > [!NOTE]  
-> Este repositorio se creó en 2024 y, por lo tanto, las preguntas proporcionadas aquí se basan en la sintaxis y el comportamiento en ese momento.Estare haciendo traducciones al Ingles, por lo que tu eres libre de añadir a tu idioma o sugerencias! Hagamos una buena comunidad 🤓
+> Este repositorio se creó en 2024 y, por lo tanto, las preguntas proporcionadas aquí se basan en la sintaxis y el comportamiento en ese momento.Estare haciendo traducciones al Ingles, por lo que tu eres libre de añadir a tu idioma o sugerencias! Hagamos una buena comunidad 🤓. Yo sugiriría que con los temas que has visto aqui, puedas prepararte indivdualmente con tus preguntas, pero es un buen inicio para que sepas por donde empezar.
 ---
 
 
