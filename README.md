@@ -175,3 +175,20 @@ Existen varios tipos de autenticación, dependiendo de cómo se verifique la ide
 </details>
 
 ---
+###### **9. ¿Qué es un patrón de diseño en software?**
+
+- A: Un lenguaje de programación.
+- B: Un conjunto de reglas para crear software.
+- C: Una solución reusable para resolver problemas comunes en desarrollo de software.
+- D: Un tipo de base de datos.
+
+<details><summary><b>Respuesta</b></summary>
+<p>
+
+#### Respuesta: C
+
+Un **patrón de diseño** es una solución probada y reutilizable para resolver problemas comunes en el desarrollo de software. Son guías que los desarrolladores pueden seguir para estructurar el código de manera eficiente, facilitando el mantenimiento, escalabilidad y legibilidad.
+
+
+</p>
+</details>
