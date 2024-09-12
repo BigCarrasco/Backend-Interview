@@ -151,3 +151,27 @@ La autenticación es el proceso de verificar la identidad de un usuario o sistem
 </details>
 
 ---
+###### **8. ¿Cuántos tipos de autenticación existen?**
+
+- A: 1.
+- B: 3.
+- C: 12.
+- D: No hay un número fijo, existen varios tipos de autenticación.
+
+<details><summary><b>Respuesta</b></summary>
+<p>
+
+#### Respuesta: D
+
+Existen varios tipos de autenticación, dependiendo de cómo se verifique la identidad de un usuario o sistema. Los más comunes son:
+
+1. **Autenticación de un solo factor (SFA)**: Requiere solo un método, como una contraseña.
+2. **Autenticación de dos factores (2FA)**: Combina dos métodos, como contraseña y un código enviado al teléfono.
+3. **Autenticación multifactor (MFA)**: Usa más de dos métodos, como contraseña, código y huella dactilar.
+4. **Autenticación basada en tokens**: Usa tokens temporales (como JWT) para identificar a los usuarios.
+5. **Autenticación biométrica**: Usa características físicas como huellas dactilares o reconocimiento facial.
+
+</p>
+</details>
+
+---
