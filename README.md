@@ -230,3 +230,27 @@ Existen 23 **patrones de diseño** clásicos, divididos en tres categorías: **c
 
 </p>
 </details>
+
+---
+###### **12. ¿Cuántos tipos de algoritmos existen?**
+
+- A: Solo existen algoritmos de búsqueda y ordenamiento.
+- B: Existen más de 5 tipos de algoritmos.
+- C: Todos los algoritmos son recursivos.
+- D: Los algoritmos de grafos son los más comunes en programación.
+
+<details><summary><b>Respuesta</b></summary>
+<p>
+
+#### Respuesta: B
+
+Existen más de **5 tipos de algoritmos**, que incluyen entre los más populares **búsqueda, ordenamiento, recursivos, grafos, entre otros**, como:
+- Fuerza Bruta.
+- Greedy.
+- Algoritmos de Programación dinamica.
+- Algoritmos Probabilisticos.
+- Algoritmos de Inteligencia artificial.
+
+
+</p>
+</details>
