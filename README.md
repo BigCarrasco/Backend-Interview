@@ -192,3 +192,22 @@ Un **patrón de diseño** es una solución probada y reutilizable para resolver 
 
 </p>
 </details>
+
+---
+###### **10. ¿En qué se asemejan y cuál es la diferencia entre un algoritmo y un patrón de diseño?**
+
+- A: Ambos son pasos para resolver un problema específico.
+- B: Un algoritmo resuelve un problema específico, mientras que un patrón de diseño es una estructura para organizar el código.
+- C: Un patrón de diseño es un algoritmo de ordenamiento.
+- D: No tienen nada en común.
+
+<details><summary><b>Respuesta</b></summary>
+<p>
+
+#### Respuesta: B
+
+Un **algoritmo** resuelve un problema específico, mientras que un **patrón de diseño** es una estrategia general para organizar el código.
+
+
+</p>
+</details>
