@@ -273,3 +273,22 @@ Los patrones creacionales se enfocan en cómo se crean y gestionan los objetos, 
 
 </p>
 </details>
+
+---
+###### **14. ¿En qué se enfocan los patrones estructurales?**
+
+- A: Se enfocan en la creación de objetos.
+- B: Se enfocan en cómo los objetos y clases se organizan y se relacionan entre sí.
+- C: Se enfocan en la destrucción de objetos.
+- D: Se enfocan en la validación de datos.
+
+<details><summary><b>Respuesta</b></summary>
+<p>
+
+#### Respuesta: B
+
+Los patrones estructurales se enfocan en cómo los objetos y clases se organizan y se relacionan entre sí para formar estructuras más complejas, facilitando la composición de estructuras flexibles y reutilizables.
+
+
+</p>
+</details>
