@@ -292,3 +292,21 @@ Los patrones estructurales se enfocan en cómo los objetos y clases se organizan
 
 </p>
 </details>
+
+---
+###### **15. ¿En qué se enfocan los patrones de comportamiento?**
+
+- A: Se enfocan en la creación de objetos.
+- B: Se enfocan en la organización de objetos y clases.
+- C: Se enfocan en la interacción y comunicación entre objetos.
+- D: Se enfocan en destruir objetos al finalizar el programa.
+
+<details><summary><b>Respuesta</b></summary>
+<p>
+
+#### Respuesta: C
+
+Los patrones de comportamiento se enfocan en la interacción y comunicación entre objetos, distribuyendo las responsabilidades de manera flexible y eficiente.
+
+</p>
+</details>
