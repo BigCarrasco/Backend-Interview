@@ -256,7 +256,7 @@ Existen más de **5 tipos de algoritmos**, que incluyen entre los más populares
 </details>
 
 ---
-###### **13. ¿En qué se enfocan los patrones creacionales?**
+###### **13. ¿En qué se enfocan los patrones creacionales (son 5) ?**
 
 - A: Se enfocan en cómo los objetos interactúan entre sí.
 - B: Se enfocan en cómo se crean y gestionan los objetos.
@@ -270,12 +270,17 @@ Existen más de **5 tipos de algoritmos**, que incluyen entre los más populares
 
 Los patrones creacionales se enfocan en cómo se crean y gestionan los objetos, facilitando un proceso de creación flexible y eficiente.
 
+1. **Singleton**: Asegura que una clase tenga solo una instancia y proporciona un punto de acceso global a esa instancia.
+2. **Factory Method**: Proporciona una interfaz para crear objetos, pero permite a las subclases decidir qué clase instanciar.
+3. **Abstract Factory**: Crea familias de objetos relacionados sin especificar sus clases concretas.
+4. **Builder**: Separa la construcción de un objeto complejo de su representación para poder crear diferentes representaciones.
+5. **Prototype**: Permite crear nuevos objetos copiando una instancia existente (prototipo).
 
 </p>
 </details>
 
 ---
-###### **14. ¿En qué se enfocan los patrones estructurales?**
+###### **14. ¿En qué se enfocan los patrones estructurales (son 7) ?**
 
 - A: Se enfocan en la creación de objetos.
 - B: Se enfocan en cómo los objetos y clases se organizan y se relacionan entre sí.
@@ -289,12 +294,21 @@ Los patrones creacionales se enfocan en cómo se crean y gestionan los objetos, 
 
 Los patrones estructurales se enfocan en cómo los objetos y clases se organizan y se relacionan entre sí para formar estructuras más complejas, facilitando la composición de estructuras flexibles y reutilizables.
 
+### Ejemplos de patrones estructurales:
+1. **Adapter**: Permite que dos interfaces incompatibles trabajen juntas. Convierte la interfaz de una clase en otra que el cliente espera.
+2. **Bridge**: Desacopla una abstracción de su implementación para que ambas puedan evolucionar de manera independiente.
+3. **Composite**: Permite tratar objetos individuales y compuestos de manera uniforme. Es útil para representar jerarquías de objetos.
+4. **Decorator**: Añade funcionalidad adicional a un objeto de manera dinámica sin modificar su estructura original.
+5. **Facade**: Proporciona una interfaz simplificada para un sistema complejo de clases, ocultando su complejidad.
+6. **Flyweight**: Minimiza el uso de memoria al compartir el estado común de los objetos en lugar de duplicarlos.
+7. **Proxy**: Proporciona un sustituto o intermediario para controlar el acceso a otro objeto.
+
 
 </p>
 </details>
 
 ---
-###### **15. ¿En qué se enfocan los patrones de comportamiento?**
+###### **15. ¿En qué se enfocan los patrones de comportamiento (son 11)?**
 
 - A: Se enfocan en la creación de objetos.
 - B: Se enfocan en la organización de objetos y clases.
@@ -307,6 +321,20 @@ Los patrones estructurales se enfocan en cómo los objetos y clases se organizan
 #### Respuesta: C
 
 Los patrones de comportamiento se enfocan en la interacción y comunicación entre objetos, distribuyendo las responsabilidades de manera flexible y eficiente.
+
+### Ejemplos de patrones de comportamiento:
+1. **Chain of Responsibility**: Permite que varios objetos tengan la oportunidad de manejar una solicitud, evitando el acoplamiento entre el emisor y el receptor.
+2. **Command**: Encapsula una solicitud como un objeto, permitiendo parametrizar a los clientes con diferentes solicitudes, colas o registros.
+3. **Interpreter**: Define una gramática para un lenguaje y usa esta representación para interpretar sentencias.
+4. **Iterator**: Proporciona una manera de acceder secuencialmente a los elementos de una colección sin exponer su estructura interna.
+5. **Mediator**: Define un objeto que controla la comunicación entre objetos, reduciendo la interdependencia entre ellos.
+6. **Memento**: Permite capturar y restaurar el estado interno de un objeto sin violar su encapsulamiento.
+7. **Observer**: Define una dependencia uno-a-muchos entre objetos, de modo que cuando uno cambia su estado, todos sus dependientes son notificados automáticamente.
+8. **State**: Permite a un objeto cambiar su comportamiento cuando cambia su estado interno.
+9. **Strategy**: Define una familia de algoritmos, encapsula cada uno y los hace intercambiables, permitiendo cambiar el algoritmo independientemente del cliente que lo usa.
+10. **Template Method**: Define el esqueleto de un algoritmo en una clase base, permitiendo que las subclases redefinan ciertos pasos sin cambiar la estructura del algoritmo.
+11. **Visitor**: Permite definir nuevas operaciones sobre una estructura de objetos sin cambiar las clases de los elementos sobre los que opera.
+
 
 </p>
 </details>
