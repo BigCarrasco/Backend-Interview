@@ -254,3 +254,22 @@ Existen más de **5 tipos de algoritmos**, que incluyen entre los más populares
 
 </p>
 </details>
+
+---
+###### **13. ¿En qué se enfocan los patrones creacionales?**
+
+- A: Se enfocan en cómo los objetos interactúan entre sí.
+- B: Se enfocan en cómo se crean y gestionan los objetos.
+- C: Son usados para destruir objetos en memoria.
+- D: Ayudan a conectar diferentes clases sin instanciarlas.
+
+<details><summary><b>Respuesta</b></summary>
+<p>
+
+#### Respuesta: B
+
+Los patrones creacionales se enfocan en cómo se crean y gestionan los objetos, facilitando un proceso de creación flexible y eficiente.
+
+
+</p>
+</details>
