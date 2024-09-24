@@ -338,3 +338,24 @@ Los patrones de comportamiento se enfocan en la interacción y comunicación ent
 
 </p>
 </details>
+
+
+---
+###### **16. ¿Qué es un ORM ?**
+
+- A: Un ORM es un tipo de base de datos.
+- B: Un ORM es una técnica que permite mapear objetos a bases de datos relacionales.
+- C: Un ORM es un motor de búsqueda para bases de datos.
+- D: Un ORM es una herramienta para diseñar interfaces gráficas.
+
+<details><summary><b>Respuesta</b></summary>
+<p>
+
+#### Respuesta: B
+
+Un **ORM** es una técnica que permite mapear objetos a bases de datos relacionales, facilitando la interacción entre el código orientado a objetos y las bases de datos.
+
+</p>
+</details>
+
+---
