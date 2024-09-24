@@ -359,3 +359,24 @@ Un **ORM** es una técnica que permite mapear objetos a bases de datos relaciona
 </details>
 
 ---
+
+###### **17. ¿Qué es una migración ?**
+
+- A: Una migración es cuando una base de datos se traslada de un servidor a otro.
+- B: Una migración es un archivo de respaldo de la base de datos.
+- C: Una migración es la actualización de datos en una tabla.
+- D: Una migración es el proceso de cambiar la estructura de la base de datos de manera organizada y segura.
+
+<details><summary><b>Respuesta</b></summary>
+<p>
+
+#### Respuesta: D
+
+Una **migración** es el proceso de cambiar la estructura de la base de datos de manera organizada y segura, como agregar nuevas tablas o modificar columnas existentes.
+
+Las migraciones permiten modificar o actualizar la base de datos de forma incremental sin perder datos existentes, y aseguran que la estructura de la base de datos esté sincronizada con la versión del código de la aplicación
+
+</p>
+</details>
+
+---
