@@ -380,3 +380,22 @@ Las migraciones permiten modificar o actualizar la base de datos de forma increm
 </details>
 
 ---
+
+---
+
+###### **17. ¿Qué es GIT?**
+
+- A: Git es una herramienta para gestionar bases de datos.
+- B: Git es un lenguaje de programación para servidores.
+- C: Git es un sistema de control de versiones utilizado para rastrear cambios en proyectos.
+- D: Git es una herramienta de diseño gráfico.
+
+<details><summary><b>Respuesta</b></summary>
+<p>
+
+#### Respuesta: C
+
+Git es un **sistema de control de versiones** utilizado para rastrear cambios en proyectos de software, permitiendo la colaboración y el manejo eficiente del código.
+
+</p>
+</details>
