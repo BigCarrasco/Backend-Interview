@@ -381,8 +381,6 @@ Las migraciones permiten modificar o actualizar la base de datos de forma increm
 
 ---
 
----
-
 ###### **17. ¿Qué es GIT?**
 
 - A: Git es una herramienta para gestionar bases de datos.
@@ -396,6 +394,27 @@ Las migraciones permiten modificar o actualizar la base de datos de forma increm
 #### Respuesta: C
 
 Git es un **sistema de control de versiones** utilizado para rastrear cambios en proyectos de software, permitiendo la colaboración y el manejo eficiente del código.
+
+</p>
+</details>
+
+---
+
+###### **18. ¿Cúal es la diferencia de un codigo http 200 y el 201?**
+
+- A: El código 200 significa que la solicitud fue exitosa y se creó un nuevo recurso.
+- B: El código 201 significa que la solicitud falló.
+- C: El código 200 indica éxito en la solicitud, pero no se creó un nuevo recurso.
+- D: El código 201 se utiliza cuando un recurso se actualiza.
+
+
+
+<details><summary><b>Respuesta</b></summary>
+<p>
+
+#### Respuesta: C
+
+El código 200 indica éxito en la solicitud, pero no necesariamente implica la **creación de un nuevo recurso**. En cambio, el código 201 se utiliza cuando se crea un nuevo recurso.
 
 </p>
 </details>
